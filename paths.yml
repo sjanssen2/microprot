@@ -1,0 +1,12 @@
+# TOOLS
+hmmer: /projects/microprot/tools/HMMer
+hhsuite: /projects/microprot/tools/hhsuite-3.0.0
+psipred: /projects/microprot/tools/psipred4
+disopred: /projects/microprot/tools/disopred3
+metapsicov: /projects/microprot/tools/contact_predictions/metaPSICOV
+
+
+# DBS
+pdb100: /projects/microprot/dbs/pdb100/
+nr: /projects/microprot/dbs/nr/
+uniprot20: /projects/microprot/dbs/uniprot20/

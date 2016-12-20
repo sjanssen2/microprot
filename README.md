@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/sjanssen2/microprot/badge.svg?branch=master)](https://coveralls.io/github/sjanssen2/microprot?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/biocore/microprot/badge.svg?branch=master)](https://coveralls.io/github/biocore/microprot?branch=master)
 
 # microprot
 ## Introduction

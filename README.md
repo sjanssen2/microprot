@@ -1,5 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/biocore/microprot/badge.svg?branch=master)](https://coveralls.io/github/biocore/microprot?branch=master)
-[[https://travis-ci.org/biocore/microprot][https://travis-ci.org/biocore/microprot.svg?branch=master]]
+[![Build Status](https://travis-ci.org/biocore/microprot.svg?branch=master)](https://travis-ci.org/biocore/microprot)
 
 # microprot
 ## Introduction
